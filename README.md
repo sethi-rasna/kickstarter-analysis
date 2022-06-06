@@ -33,10 +33,20 @@ As previously mentioned, it would be been best to work with a larger dataset and
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+   
+    Two conclusions that can be drawn from the Outcomes based on Launch Date data are it seems like the sping time is the best time to start a campaiagn for theater       projects and the fall seems to be the worst time to launch a campaign. 
 
 - What can you conclude about the Outcomes based on Goals?
+     
+     It is best to have a campaign with a lower target goal, most specifically between $5000 and $10000, than to have a larger goal, such as $50000 or more.
 
 - What are some limitations of this dataset?
 
+     Kickstarter is not the only platform to raise money for campaigns; therefore, it would have been better to look at data from multiple platforms to compare and  
+     contrast which ones would have been best for Theater and/or play campaigns. Additionally, Kickstarter is a relatively new platofrm so the data we have from the 
+     platform isn't historical. There are other ways to crowd source funds for plays so it might have been worth looking at those options as well in our research.
+     
 - What are some other possible tables and/or graphs that we could create?
+
+     If given more time, we could have looked at the outcome of plays specifically instead of just theaters. We could have also looked more specifically at Great 
+     Britain plays and got more situational data to look at. 
