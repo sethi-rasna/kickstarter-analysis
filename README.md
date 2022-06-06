@@ -50,3 +50,5 @@ As previously mentioned, it would be been best to work with a larger dataset and
 
      If given more time, we could have looked at the outcome of plays specifically instead of just theaters. We could have also looked more specifically at Great 
      Britain plays and got more situational data to look at. 
+
+For source data, please reference https://github.com/sethi-rasna/kickstarter-analysis/blob/a4e8759af96b8b220872d547d6d68fdf84355b7f/_Kickstart_Challenge_Final.zip
